@@ -1,4 +1,4 @@
-# MapleBlog
+# NJUBlog
 
 [![Version](https://img.shields.io/github/package-json/v/maplezzzzzz/MapleBlog)](https://github.com/maplezzzzzz/MapleBlog/blob/main/package.json)
 [![Last Commit](https://img.shields.io/github/last-commit/maplezzzzzz/MapleBlog)](https://github.com/maplezzzzzz/MapleBlog/commits/main)
@@ -71,7 +71,7 @@ PUBLIC_TWIKOO_ENV_ID=https://your-twikoo-service-url.example.com/.netlify/functi
 ---
 title: "文章标题"
 description: "文章摘要"
-pubDate: "2025-11-11"
+pubDate: "2026-01-01"
 tags: ["随笔", "技术"]
 cover: "/assets/uploads/cover.jpg"
 ---
